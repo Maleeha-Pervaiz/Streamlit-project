@@ -1,0 +1,14 @@
+div.stButton > button {
+    background-color: #212529;
+    color: white;
+    height: auto;
+    width: max-content;
+}
+
+div.stButton > button:hover {
+    background-color: whitesmoke;
+    color: black;
+}
+div.stsidebar > .sidebar-content {
+    background-color: #212529;
+}

@@ -1,0 +1,7 @@
+streamlit==1.20.0  # Replace with the version you're using
+pandas==1.5.0      # Replace with the version you're using
+plotly==5.5.0      # Replace with the version you're using
+reportlab==3.6.0   # Replace with the version you're using
+mysql-connector-python==8.0.27  # Replace with the version you're using
+selenium==4.1.0    # Replace with the version you're using
+kaleido==0.2.1     # Replace with the version you're using
